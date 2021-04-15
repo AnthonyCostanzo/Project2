@@ -1,0 +1,12 @@
+.jumbotron {
+    background: url('https://cdn.hipwallpaper.com/i/34/19/aSi8pO.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+}
